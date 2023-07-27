@@ -1,10 +1,10 @@
 {
-  "name": "marge-pull",
+  "name": "pull-bot",
   "version": "1.0.0",
   "description": "Keep your forks up-to-date.",
   "author": "Md Sulaiman <infosulaimanbd@gmail.com> (https://khulnasoft.com)",
   "license": "MIT",
-  "repository": "https://github.com/khulnasoft-labs/marge-pull.git",
+  "repository": "https://github.com/khulnasoft-labs/pull-bot.git",
   "scripts": {
     "dev": "nodemon --exec \"npm start\"",
     "start": "probot run ./index.js",
