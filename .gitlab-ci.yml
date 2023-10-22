@@ -3,7 +3,7 @@ stages:
   - deploy
 
 test:
-  image: node:16
+  image: node:21
   stage: test
   before_script:
     - npm i
