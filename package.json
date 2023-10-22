@@ -21,7 +21,7 @@
     "probot-config": "^1.1.0",
     "probot-scheduler": "wei/probot-scheduler#3b656f7",
     "request": "^2.88.2",
-    "request-promise": "^0.0.1"
+    "request-promise": "^4.0.0"
   },
   "devDependencies": {
     "jest": "^29.6.1",
